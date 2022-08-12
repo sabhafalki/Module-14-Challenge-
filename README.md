@@ -7,6 +7,8 @@ The goal of this project is to use create visualtions, in order to help investor
 2. THe number of bike trips for all riders
 3. The number of bike trips for each type of user and gender
 
+The complete Tableau WorkSheet can be [viewed in this link](https://public.tableau.com/app/profile/falki.sabha/viz/Challenge_16602721811580/NYC_Citibike_Analysis?publish=yes).
+
 # Resources #
 - Source Files: 201908-citibike-tripdata.csv, 201908-citibike-revised_tripdata.csv
 - Software: Tableau, Python, Jupyter Notebook, Pandas Library
