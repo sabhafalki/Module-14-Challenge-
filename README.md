@@ -1,2 +1,29 @@
-# Module-14-Challenge-
-Bikesharing
+# Module-14-Challenge-Bikesharing
+An analysis of NYC CitiBike bikesharing data from August, 2019, with Tableau
+
+# Overview of Project #
+The goal of this project is to use create visualtions, in order to help investors in hte bike-sharing program make a suitable decision. In order to accomplish this, analysis was carried out on the following:
+1. The lenght of the time the bikes were checked out
+2. THe number of bike trips for all riders
+3. The number of bike trips for each type of user and gender
+
+# Resources #
+- Source Files: 201908-citibike-tripdata.csv, 201908-citibike-revised_tripdata.csv
+- Software: Tableau, Python, Jupyter Notebook, Pandas Library
+
+# Results #
+## Number of Bikes based on Duration ##
+
+## Number of Bikes based on each Gender by Hour ##
+
+## NUmber of Bike Trips on an Hourly Basis ##
+
+## Number Bike Trips by Gender on a Hourly Basis ##
+
+## NUmber of Bike Trips based on Gender on a Daily Basis ##
+
+# Summary #
+
+
+
+
