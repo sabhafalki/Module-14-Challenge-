@@ -19,7 +19,7 @@ This graphing of number of trips by duration show that the vast majority of trip
 
 ## Number of Bikes based on each Gender by Hour ##
 ![initial](bikesharing/Image/checkout_Gender.png) <br><br>
-
+A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day. An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours, every day of the week.
 This breakdown of number of rides by duration, separated by gender, makes it even more apparent how many more rides are taken by male-identifying customers.
 
 ## Number of Bike Trips on an Hourly Basis ##
@@ -32,7 +32,9 @@ This breakdown of number of rides by duration, separated by gender, makes it eve
 A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day. An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours, every day of the week.
 ## Number of Bike Trips based on Gender on a Daily Basis ##
 ![initial](bikesharing/Image/user_trip_by_gender_by_weekday.png) <br><br>
+Lastly, this heatmap reinforces how much of the userbase is dominated by male-identifying, subscribing users. Why this is the case is unclear and warrants additional study.
 
+There are one or two additional charts available in the Tableau analysis, but they tell pretty much the same story that has already been displayed above.
 ## Peak Hours of Usage ##
 ![initial](bikesharing/Image/Peak_Hours_of_Usage.png) <br><br>
 
