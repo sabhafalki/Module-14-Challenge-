@@ -13,7 +13,8 @@ The goal of this project is to use create visualtions, in order to help investor
 
 # Results #
 ## Number of Bikes based on Duration ##
-
+![initial](/bikesharing/Images/Checout_times_users.png) <br><br>
+This graphing of number of trips by duration show that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length.
 ## Number of Bikes based on each Gender by Hour ##
 
 ## NUmber of Bike Trips on an Hourly Basis ##
