@@ -28,7 +28,11 @@ This graphing of number of trips by duration show that the vast majority of trip
 ## Number of Bike Trips based on Gender on a Daily Basis ##
 ![initial](bikesharing/Image/user_trip_by_gender_by_weekday.png) <br><br>
 
-##  ##
+## Peak Hours of Usage ##
+![initial](bikesharing/Image/Peak_Hours_of_Usage.png) <br><br>
+
+## Gender Breakdown ##
+![initial](bikesharing/Image/Gender.png) <br><br>
 
 # Summary #
 
